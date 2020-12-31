@@ -5,4 +5,4 @@
 * `Keywords_main_MutilSentence.py` 为读取所有文件并生成关键词；`Keywords_main_SingleSentence.py` 为读取单个文本内容并提取出关键词。`Keywords_Algorithm.py` 为所用到的算法；
 
 ## 注意
-* IDF算法需要提前根据自己的数据集制作IDF文件。可以通过运行`keywords_tools.py`文件进行制作，但需要修改为自己的数据
+* IDF算法需要提前根据自己的数据集制作IDF文件。可以通过运行`keywords_tools.py`文件进行制作，但需要修改为自己的数据，具体可以打开`./data/dict_idf.json`进行查看。
